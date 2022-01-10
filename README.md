@@ -4,7 +4,7 @@ My name is [Kirill Bondarenko](https://github.com/Sterioboy) 👨‍💻
 
 :cityscape:  I am a Full Stack Developer working in Moscow, Russia.
 
-📬  Contact me at: bondarenkokirill.jobs@gmail.com or [Telegram](https://t.me/MegaMan20000)
+📬  Contact me at: bondarenkokirill.jobs@gmail.com or [Telegram](https://t.me/k_sterio)
 
 ---
 ### My Tech Stack:
