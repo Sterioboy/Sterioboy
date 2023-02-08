@@ -2,7 +2,7 @@
 
 My name is [Kirill Bondarenko](https://github.com/Sterioboy) 👨‍💻
 
-:cityscape:  I am a Full Stack Developer working in Toronto, Canada.
+:cityscape:  I am a Front‑End Developer working in Toronto, Canada.
 
 📬  Contact me at: bondarenkokirill.jobs@gmail.com or [Telegram](https://t.me/k_sterio)
 
