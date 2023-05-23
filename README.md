@@ -2,7 +2,7 @@
 
 My name is [Kirill Bondarenko](https://github.com/Sterioboy) 👨‍💻
 
-:cityscape:  I am a Front‑End Developer working remotely.
+:cityscape:  I am a Full-stack Developer working remotely.
 
 📬  Contact me at: bondarenkokirill.jobs@gmail.com or [Telegram](https://t.me/k_sterio)
 
