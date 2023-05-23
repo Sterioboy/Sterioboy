@@ -14,6 +14,7 @@ My name is [Kirill Bondarenko](https://github.com/Sterioboy) 👨‍💻
 [<img align="left" alt="Node" width="85px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" />][node]
 [<img align="left" alt="SQL" width="40px" src="https://user-images.githubusercontent.com/24623425/36042969-f87531d4-0d8a-11e8-9dee-e87ab8c6a9e3.png" />][sql]
 [<img align="left" alt="MDB" width="40px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKwTptG2fcxUHseXwhwHKcCSJRky8cR_BVazbBmhp675qwhU-1kNnymYwUhkytgBatgLo&usqp=CAU" />][mdb]
+[<img align="left" alt="GraphQL" width="85px" src="https://res.cloudinary.com/do6yo1hx8/image/upload/v1684826933/graphql-ar21_bhoza5.svg" />][GQL]
 <br>
 <br>
 
@@ -24,3 +25,4 @@ My name is [Kirill Bondarenko](https://github.com/Sterioboy) 👨‍💻
 [sql]: https://github.com/Sterioboy
 [mdb]: https://github.com/Sterioboy
 [node]: https://github.com/Sterioboy
+[GQL]: https://github.com/Sterioboy
