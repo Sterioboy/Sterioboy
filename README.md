@@ -2,7 +2,7 @@
 
 ### My name is Kirill Bondarenko 👨‍💻
 
-### I am a Full-stack Developer with a passion for web3 and blockchain technologies, working remotely :globe_with_meridians:
+#### I am a Full-stack & Web3 Developer, working remotely. I have extensive experience building multiple Telegram Mini Apps from scratch, leveraging the power of the Telegram platform to create engaging and interactive applications :globe_with_meridians:
 ---
 
 ### 📬 Contact Me:
