@@ -21,25 +21,9 @@
 - **Styling:** CSS, Sass, Tailwind CSS
 
 #### Blockchain:
-- **Smart Contracts:** Solidity
-- **Frameworks:** Hardhat, Truffle
 - **Networks:** Ethereum, TON, Solana
 - **Libraries:** wagmi, ton-sdk, ethers.js, web3.js
 - **Tools:** WalletConnect, MetaMask, Remix, Infura, Alchemy
-
----
-
-### 🔥 Projects & Contributions:
-
-#### [Nexton](https://t.me/nextonglobal):
-A platform focused on liquid staking within the TON blockchain. 
-**Role:** Team Lead/Lead Consultant.
-
-#### [Tontune](https://t.me/TontuneApp):
-A web3 musical application providing unique opportunities for artists and users. **Role:** Founder. Achievements include reaching the semi-finals in The Open League hackathon.
-
-#### CoWorker AI:
-An AI-driven tool to enhance team communication within Telegram, integrating with tools like Google Calendar and GitHub for improved productivity. **Role:** Co-Founder.
 
 ---
 
