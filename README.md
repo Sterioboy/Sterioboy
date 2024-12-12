@@ -28,6 +28,7 @@
 ---
 
 ### 🏆 Achievements:
+- **ETHGlobal 2024, Bangkok:** Awarded ”Most Killer App Potential” by Flow Foundation.
 - **Semi-Finalist:** The Open League Hackathon with Tontune
 - **ETHSeoul 2024:** Awarded “Best Use of Minipay” by CELO for innovative payment solutions.
 - **ETHGlobal 2023, Istanbul:** Received the “Best Mobile-ready Dapp” award from MetaMask & Won the Worldcoin Pool Prize.
@@ -36,4 +37,4 @@
 ---
 
 ### 💬 Let's Connect:
-Feel free to reach out if you want to discuss potential collaborations, blockchain technology, or any exciting project ideas. I'm always open to new opportunities and networking.
+Please feel free to reach out if you'd like to discuss potential collaborations, blockchain technology, or any exciting project ideas. I'm always open to new opportunities and networking.
